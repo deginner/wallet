@@ -1,0 +1,16 @@
+{
+  "api_database": {
+    "engine": {
+      "name_or_url": "sqlite:///sql.db",
+      "echo": false
+    },
+    "session": {
+    }
+  },
+
+  "api_signing_key": null,
+
+  "cosigner_server": "http://localhost:9911",
+  "bws_url": "http://localhost:3232/bws/api",
+  "bws_db": "mongodb://localhost:27017/bws"
+}

@@ -1,0 +1,12 @@
+node_modules/
+service/
+build/
+dist/
+config/*.json
+config/*.py
+*.egg-info
+*.egg
+*.pyc
+*.db
+
+js/bitcore-wallet-service
