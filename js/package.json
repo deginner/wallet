@@ -5,7 +5,7 @@
   "main": "index.js",
   "dependencies": {
     "async": "^1.5.0",
-    "bitcore-wallet-client": "^1.1.9",
+    "bitcore-wallet-client": "git+https://git@github.com/g-p-g/bitcore-wallet-client#createAddress-opts",
     "bitcore-wallet-service": "^1.3.1",
     "body-parser": "^1.14.1",
     "config": "^1.17.1",
